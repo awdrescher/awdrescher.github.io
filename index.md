@@ -11,7 +11,7 @@ In my free time I like to mess around with the data science tools I've gathered 
 
 # Contents
 
-## 1. [Classification Predictions of Uranium Enrichment With Real-World Experimental Data](CoincidenceModel_Clean.ipynb)
+## 1. [Classification Predictions of Uranium Enrichment With Real-World Experimental Data](awdrescher.github.io/CoincidenceModel_Clean.ipynb)
 This notebook takes experimental gamma-ray measurements of uranium fission products I made during my Master's Thesis and creates classification models to discriminate between natural uranium, low-enriched uranium, and high-enriched uranium. These models are then used to determine which spectral features are most strongly correlated with uranium enrichment while being consistent across a one month range of decay times.
 
 ## 2. [Regression Predictions of Uranium Enrichment With Simulated Data](SCALE_Predictions_Clean.ipynb)
