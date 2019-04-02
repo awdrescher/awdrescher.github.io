@@ -4,12 +4,12 @@ I am a PhD candidate at the University of Texas at Austin in the Nuclear and Rad
 
 In my free time I like to mess around with the data science tools I've gathered to tackle new problems.
 
-<img src="https://github.com/awdrescher/awdrescher.github.io/blob/master/38011685_10215498402880927_7228843852281413632_o.jpg" width="200"/>
+![Image](38011685_10215498402880927_7228843852281413632_o.jpg)
 
 
 [Here](Adam_Drescher_CV.pdf) is my CV.
 
-# Contents
+# Contents: Data Science Projects
 
 ## 1. [Classification Predictions of Uranium Enrichment With Real-World Experimental Data](CoincidenceModel/CoincidenceModel_Clean.md)
 This notebook takes experimental gamma-ray measurements of uranium fission products I made during my Master's Thesis and creates classification models to discriminate between natural uranium, low-enriched uranium, and high-enriched uranium. These models are then used to determine which spectral features are most strongly correlated with uranium enrichment while being consistent across a one month range of decay times.
