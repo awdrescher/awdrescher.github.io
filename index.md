@@ -1,3 +1,9 @@
+# About Me
+
+I am a PhD candidate at the University of Texas at Austin in the Nuclear and Radiation Engineering Program. My dissertation research utilizes data science and machine learning prediction techniques to characterize special nuclear materials which are important for nuclear safeguards and nuclear nonproliferation. 
+
+[Here](Adam_Drescher_CV.pdf) is my CV.
+
 # Contents
 
 ## 1. [Predicting Uranium Enrichment With Simulated Data](SCALE_Predictions_Clean.ipynb)
