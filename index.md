@@ -7,6 +7,10 @@ This notebook takes experimental gamma-ray measurements of uranium fission produ
 ## 2. [Regression Predictions of Uranium Enrichment With Simulated Data](SCALEPredictions/SCALE_Predictions_Clean.md)
 This notebook takes simulated data of gamma-ray emissions from irradiated uranium of two isotopes (U-235 and U-238), from decay times ranging from one day to one year post-irradiation and builds predictive models which are capable of determining the enrichment of any sample with independence across decay time. This is important because conventional analytic techniques for enrichment determination rely on accurate decay time information.
 
+## 3. [Front to Back Example Data Science Project
+(StateFarm/StateFarm.md)
+This notebook explains and performs all of the major steps necessary to build robust machine learning models. A large dataset full of missing values, typos, etc. containing both numerical and categorical data is analyzed in a binary classification task. The steps necessary for data preparation including data cleansing, scaling, and imputing are performed and explained. Then, multiple classification models are fine-tuned via grid searches and the performance of different algorithms is compared. The final model obtains a score (measured via receiver operating characteristic area under curve) of over 0.98.
+
 # About Me
 
 I am a PhD candidate at the University of Texas at Austin in the Nuclear and Radiation Engineering Program. My dissertation research utilizes data science and machine learning prediction techniques to characterize special nuclear materials which are important for nuclear safeguards and nuclear nonproliferation. 
