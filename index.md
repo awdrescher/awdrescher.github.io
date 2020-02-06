@@ -18,7 +18,7 @@ In my free time I like to mess around with the data science tools I've gathered 
 
 [Here](Adam_Drescher_CV.pdf) is my CV.
 
-![Image](38011685_10215498402880927_7228843852281413632_o.jpg)
+![Image](2020-P00505.jpg)
 
 
 
