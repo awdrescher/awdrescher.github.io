@@ -16,7 +16,7 @@ I am a PhD candidate at the University of Texas at Austin in the Nuclear and Rad
 
 In my free time I like to mess around with the data science tools I've gathered to tackle new problems.
 
-[Here](Adam_Drescher_CV.pdf) is my CV.
+[Here](Adam_Drescher_CV.pdf) is my CV and [here](AdamDrescher_Resume.pdf) is my resume.
 
 ![Image](2020-P00505.jpg)
 
