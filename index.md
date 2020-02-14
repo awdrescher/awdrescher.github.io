@@ -12,10 +12,7 @@ This notebook explains and performs all of the major steps necessary to build ro
 
 # About Me
 
-I am a PhD candidate at the University of Texas at Austin in the Nuclear and Radiation Engineering Program. My dissertation research utilizes data science and machine learning prediction techniques to characterize special nuclear materials which are important for nuclear safeguards and nuclear nonproliferation. 
-
-In my free time I like to mess around with the data science tools I've gathered to tackle new problems.
-
+Adam Drescher is a Postdoctoral Research Associate in the Nuclear Security Modeling Group of the Nuclear Nonproliferation Division at ORNL. Adam holds his B.S. in Physics, M.S. in Nuclear and Radiation Engineering, and Ph. D. in Nuclear and Radiation Engineering from The University of Texas at Austin. His dissertation work developed machine learning models which can return the enrichment of an irradiated uranium specimen based off of its gamma-ray spectrum while remaining invariant across multiple unknown parameters. In addition to his dissertation work, Adam has research experience in neutron activation analysis, gamma-gamma coincidence detection, and nuclear fuel cycle modeling. He has presented his research at a number of nuclear engineering conferences in the United States and abroad. He also held two summer internships at ORNL in 2016 and 2017. Throughout graduate school Adam was a fellow of the Consortium for Nonproliferation Enabling Capabilities
 [Here](Adam_Drescher_CV.pdf) is my CV and [here](AdamDrescher_Resume.pdf) is my resume.
 
 ![Image](2020-P00505.jpg)
