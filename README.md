@@ -2,6 +2,11 @@
 
 ## Welcome to my personal github repository
 
+This website serves as an online reposity for:
+* My current project portfolio
+* A central listing of my professional experience
+* A list of my publications
+
 Here I will showcase some of the major data science projects I have worked on thus far. My areas of expertise include nuclear engineering, nuclear security, and nuclear forensics modeling.
 
 ### Bio:
