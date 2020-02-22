@@ -18,7 +18,7 @@ This section lists my peer-reviewed journal publications, conference proceedings
 [Leveraging Machine Learning Capabilities for the Characterization of Irradiated Uranium: A Case Study of Prediction Methods for Nuclear Safeguards and Nuclear Forensics](Drescher_Dissertation_FINAL.pdf)
 
 ## Master's Thesis
-[Characterization of LaBr3:Ce Detectors in a Gamma-Gamma Coincidence Configuration](DRESCHER-THESIS-2017)
+[Characterization of LaBr3:Ce Detectors in a Gamma-Gamma Coincidence Configuration](DRESCHER-THESIS-2017.pdf)
 
 ## Journal of Radioanalytical and Nuclear Chemistry
 [A. Drescher et al., Gamma-gamma coincidence in neutron activation analysis, _Journal of Radioanalytical and Nuclear Chemistry_, Volume 318, October 2018, Pages 527-532, ISSN 1588-2780. https://doi.org/10.1007/s10967-018-6033-8](https://doi.org/10.1007/s10967-018-6033-8)
