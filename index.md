@@ -1,7 +1,5 @@
 ## Welcome to my personal github repository
 
-This website serves as an online portfolio and description of my professional background, major projects, publications, and conference proceedings. 
-
 ### Bio:
 
 Adam Drescher is a Research & Development Program Manager in the Nonproliferation & Arms Control group at Y-12 National security complex. In this role, Adam writes, manages, executes, and documents R&D projects for the National Nuclear Security Administration. Adam's research primarily leverages data science and machine learning to develop algorithms that directly address current challenges relevant to national security. 
